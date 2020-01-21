@@ -1,6 +1,6 @@
 #!/bin/csh 
 
-set URL='192.168.1.54:80'
+set URL='Artifactory:80'
 set ROOT="/usr/local/bin/artifactory"
 
 if ($#argv != 3) then
